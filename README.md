@@ -2,7 +2,7 @@
 
 ## List
 
-![Solarized light](https://greasyfork.org/zh-CN/scripts/410848-solarized-light-for-flomo)
+[Solarized light](https://greasyfork.org/zh-CN/scripts/410848-solarized-light-for-flomo)
 
 A beautiful, elegant, softly light skin.
 
